@@ -31,7 +31,7 @@
 
 ## 🔗 Get in touch
 - Medium: https://medium.com/@emily81926
-- Linkedin: www.linkedin.com/in/yachuyang
+- Linkedin: www.linkedin.com/in/ya-chu-yang-10b76aa9
 
 <!--
 **Emily81926/Emily81926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
