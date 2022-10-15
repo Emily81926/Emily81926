@@ -12,7 +12,7 @@
 - Database (MySQL, MongoDB)
 - OAuth setting (Facebook, Google login)
 
-### 📚 Backend 
+### 📚 end 
 - Bootstrap, Semantic-UI
 - React, Redux
 - call back-end API (Axios)
