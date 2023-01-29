@@ -26,7 +26,7 @@
 
 ## 💡 Projects
 - [twitter-api-2020][https://emily81926.github.io/twitter-front-end-vue/]
-- [stock-note-client][https://sprightly-melba-edee81.netlify.app/]
+- [stock-note-client][https://stock-note-client.onrender.com]
 - [stock-note][https://github.com/Emily81926/stock-note]
 
 ## 🔗 Get in touch
